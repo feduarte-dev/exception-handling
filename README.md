@@ -4,7 +4,7 @@
 
 ## Project Description
 
-"This is a small test where I validate the inputs before calling the sum function. The idea is to check if the input is empty or if it does not contain numeric values.
+This is a small test where I validate the inputs before calling the sum function. The idea is to check if the input is empty or if it does not contain numeric values.
 
 ### Technologies
 
